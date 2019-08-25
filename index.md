@@ -2,7 +2,9 @@
 
 My name is Kunpeng Ning (宁鲲鹏). Welcome to my homepage!
 
-I am currently a M.S. student in the [College of Computer Science and Technology](http://cs.nuaa.edu.cn/) at [Nanjing University of Aeronautics and Astronautics](http://www.nuaa.edu.cn/), advised by Prof. [Sheng-Jun Huang](http://parnec.nuaa.edu.cn/huangsj/). Before that, I have finished my undergraduate study at Nanjing University of Aeronautics and Astronautics, and received my B.E. degree in July 2019. My research interests include machine learning and data mining. Specifically I am working on active learning and reinforcement learning. 
+I am currently a M.S. student in the [College of Computer Science and Technology](http://cs.nuaa.edu.cn/) at [Nanjing University of Aeronautics and Astronautics](http://www.nuaa.edu.cn/), advised by Prof. [Sheng-Jun Huang](http://parnec.nuaa.edu.cn/huangsj/). Before that, I have finished my undergraduate study at Nanjing University of Aeronautics and Astronautics, and received my B.E. degree in July 2019. 
+
+My research interests include machine learning and data mining. Specifically I am working on **active learning** and **reinforcement learning**. 
 
 ## Welcome to GitHub Pages
 
