@@ -9,7 +9,9 @@ My research interests include machine learning and data mining. Specifically I a
 - Shuyang Yu, Bin Gu, **Kunpeng Ning**, Haiyan Chen, Jian Pei, and Heng Huang. Tackle balancing constraint for incremental semi-supervised support vector learning. In Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining ([KDD'19](http://www.kdd.org/kdd2019/)), 2019.
 
 ## Awards
+- The First Prize, [the 8th China Software Cup](http://www.cnsoftbei.com/plus/view.php?aid=452), 2019
 - Outstanding Win Award, [Music generation, the 1st Microsoft Practice Space Station](http://studentclub.msra.cn/news2/9), 2018
+- The Third Prize, [the 7th China Software Cup](http://www.cnsoftbei.com/plus/view.php?aid=220), 2018
 
 ## Welcome to GitHub Pages
 
