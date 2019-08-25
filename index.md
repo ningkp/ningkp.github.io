@@ -6,6 +6,9 @@ I am currently a M.S. student in the [College of Computer Science and Technology
 
 My research interests include machine learning and data mining. Specifically I am working on **active learning** and **reinforcement learning**. 
 
+## Publications
+- Shuyang Yu, Bin Gu, **Kunpeng Ning**, Haiyan Chen, Jian Pei, and Heng Huang. Tackle balancing constraint for incremental semi-supervised support vector learning. In Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining ([KDD'19](http://www.kdd.org/kdd2019/)), 2019.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/n291371205/ningkp.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
