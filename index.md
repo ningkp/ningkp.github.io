@@ -1,5 +1,4 @@
 ## Biography
-
 My name is Kunpeng Ning (宁鲲鹏). Welcome to my homepage!
 
 I am currently a M.S. student in the [College of Computer Science and Technology](http://cs.nuaa.edu.cn/) at [Nanjing University of Aeronautics and Astronautics](http://www.nuaa.edu.cn/), advised by Prof. [Sheng-Jun Huang](http://parnec.nuaa.edu.cn/huangsj/). Before that, I have finished my undergraduate study at Nanjing University of Aeronautics and Astronautics, and received my B.E. degree in July 2019. 
@@ -8,6 +7,9 @@ My research interests include machine learning and data mining. Specifically I a
 
 ## Publications
 - Shuyang Yu, Bin Gu, **Kunpeng Ning**, Haiyan Chen, Jian Pei, and Heng Huang. Tackle balancing constraint for incremental semi-supervised support vector learning. In Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining ([KDD'19](http://www.kdd.org/kdd2019/)), 2019.
+
+## Awards
+- Outstanding Win Award, [Music generation, the 1st Microsoft Practice Space Station](http://studentclub.msra.cn/news2/9), 2018
 
 ## Welcome to GitHub Pages
 
