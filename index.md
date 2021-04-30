@@ -7,6 +7,8 @@ My research interests include machine learning and data mining. Specifically I a
 
 ## Publications
 - **Kun-Peng Ning**, Lue Tao, Songcan Chen, Sheng-Jun Huang. Improving Model Robustness by Adaptively Correcting Perturbation Levels with Active Queries. In proceedings of the 35th Association for the Advancement of Artifificial Intelligence ([AAAI'2021]()), 2021.
+- Sheng-Jun Huang, Chen-Chen Zong, **Kun-Peng Ning**, Hai-Bo Ye. Asynchronous Active Learning with Distributed Label Querying. In 30th International Joint Conference on Artificial Intelligence ([IJCAI'2021]()), 2021.
+- **Kun-Peng Ning**, Hu Xu, Kun Zhu, Sheng-Jun Huang. Co-Imitation Learning without Expert Demonstration. In arXiv preprint arXiv:2006.07808 ([arXiv'2021](https://arxiv.org/pdf/2006.07808.pdf)), 2021
 - **Kun-Peng Ning**, Sheng-Jun Huang. Reinforcement Learning with Supervision from Noisy Demonstrations. In arXiv preprint arXiv:2006.07808 ([arXiv'2020](https://arxiv.org/pdf/2006.07808.pdf)), 2020
 - Shuyang Yu, Bin Gu, **Kun-Peng Ning**, Haiyan Chen, Jian Pei, and Heng Huang. Tackle balancing constraint for incremental semi-supervised support vector learning. In proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining ([KDD'2019](https://dl.acm.org/doi/pdf/10.1145/3292500.3330962)), 2019.
 
