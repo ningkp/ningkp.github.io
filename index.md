@@ -13,7 +13,7 @@ My research interests include machine learning and data mining. Specifically I a
 - Shuyang Yu, Bin Gu, **Kun-Peng Ning**, Haiyan Chen, Jian Pei, and Heng Huang. Tackle balancing constraint for incremental semi-supervised support vector learning. In proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining ([KDD'2019](https://dl.acm.org/doi/pdf/10.1145/3292500.3330962)), 2019.
 
 ## Experiences
-- Research Intern | **Tencent ARC Lab**, Shenzhen, China | June 2021 - present
+- Research Intern \| **Tencent ARC Lab**, Shenzhen, China \| June 2021 - present
 - Research Intern | **Tencent AI Lab**, Shenzhen, China | August 2020 - February 2021
 
 ## Awards
