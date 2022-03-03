@@ -6,7 +6,7 @@ I am currently a M.S. student in the [College of Computer Science and Technology
 My research interests include machine learning and data mining. Specifically I am working on **active learning** and **reinforcement learning**. 
 
 ## Publications
-- **Kun-Peng Ning**, Xun Zhao, Yu Li, Sheng-Jun Huang. Active Learning for Open-set Annotation. In arXiv preprint arXiv:2201.06758 ([arXiv'2022](https://arxiv.org/pdf/2201.06758.pdf)), 2022
+- **Kun-Peng Ning**, Xun Zhao, Yu Li, Sheng-Jun Huang. Active Learning for Open-set Annotation. In arXiv preprint arXiv:2201.06758 ([CVPR'2022](https://arxiv.org/pdf/2201.06758.pdf)), 2022
 - **Kun-Peng Ning**, Lue Tao, Songcan Chen, Sheng-Jun Huang. Improving Model Robustness by Adaptively Correcting Perturbation Levels with Active Queries. In proceedings of the 35th Association for the Advancement of Artifificial Intelligence ([AAAI'2021]()), 2021.
 - Sheng-Jun Huang, Chen-Chen Zong, **Kun-Peng Ning**, Hai-Bo Ye. Asynchronous Active Learning with Distributed Label Querying. In 30th International Joint Conference on Artificial Intelligence ([IJCAI'2021]()), 2021.
 - **Kun-Peng Ning**, Hu Xu, Kun Zhu, Sheng-Jun Huang. Co-Imitation Learning without Expert Demonstration. In arXiv preprint arXiv:2103.14823 ([arXiv'2021](https://arxiv.org/pdf/2103.14823.pdf)), 2021
@@ -14,7 +14,7 @@ My research interests include machine learning and data mining. Specifically I a
 - Shuyang Yu, Bin Gu, **Kun-Peng Ning**, Haiyan Chen, Jian Pei, and Heng Huang. Tackle balancing constraint for incremental semi-supervised support vector learning. In proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining ([KDD'2019](https://dl.acm.org/doi/pdf/10.1145/3292500.3330962)), 2019.
 
 ## Experiences
-- Research Intern \| **Tencent ARC Lab**, Shenzhen, China \| June 2021 - present
+- Research Intern \| **Tencent ARC Lab**, Shenzhen, China \| June 2021 - December 2021
 - Research Intern \| **Tencent AI Lab**, Shenzhen, China \| August 2020 - February 2021
 
 ## Awards
