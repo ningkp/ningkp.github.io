@@ -6,7 +6,7 @@ I am currently a M.S. student in the [College of Computer Science and Technology
 My research interests include machine learning and data mining. Specifically I am working on **active learning** and **reinforcement learning**. 
 
 ## Publications
-- **Kun-Peng Ning**, Xun Zhao, Yu Li, Sheng-Jun Huang. Active Learning for Open-set Annotation. In arXiv preprint arXiv:2201.06758 ([CVPR'2022](https://arxiv.org/pdf/2201.06758.pdf)), 2022
+- **Kun-Peng Ning**, Xun Zhao, Yu Li, Sheng-Jun Huang. Active Learning for Open-set Annotation. In The IEEE Conference on Computer Vision and Pattern Recognition ([CVPR'2022](https://arxiv.org/pdf/2201.06758.pdf)), 2022
 - **Kun-Peng Ning**, Lue Tao, Songcan Chen, Sheng-Jun Huang. Improving Model Robustness by Adaptively Correcting Perturbation Levels with Active Queries. In proceedings of the 35th Association for the Advancement of Artifificial Intelligence ([AAAI'2021]()), 2021.
 - Sheng-Jun Huang, Chen-Chen Zong, **Kun-Peng Ning**, Hai-Bo Ye. Asynchronous Active Learning with Distributed Label Querying. In 30th International Joint Conference on Artificial Intelligence ([IJCAI'2021]()), 2021.
 - **Kun-Peng Ning**, Hu Xu, Kun Zhu, Sheng-Jun Huang. Co-Imitation Learning without Expert Demonstration. In arXiv preprint arXiv:2103.14823 ([arXiv'2021](https://arxiv.org/pdf/2103.14823.pdf)), 2021
