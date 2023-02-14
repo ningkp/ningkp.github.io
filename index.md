@@ -4,10 +4,10 @@ My name is Kun-Peng Ning (宁鲲鹏). Welcome to my homepage!
 I got my B.E. and M.S. degrees in computer science from [Nanjing University of Aeronautics and Astronautics](http://www.nuaa.edu.cn/) in 2019 and 2022, respectively, advised by Prof. [Sheng-Jun Huang](http://parnec.nuaa.edu.cn/huangsj/). Moreover, I was a research intern in **Tencent AI Lab** and **Tencent ARC Lab** for half a year respectively. My research interests include machine learning and data mining. Specifically I am working on **active learning** and **reinforcement learning**. 
 
 ## News
-- **[Mar 2022]** One paper is accepted to CVPR'2022.
-- **[Apr 2021]** One paper is accepted to IJCAI'2021.
-- **[Nov 2020]** One paper is accepted to AAAI'2021.
-- **[Apr 2019]** One paper is accepted to KDD'2019.
+- **[Mar 2022]** One paper is accepted to CVPR 2022.
+- **[Apr 2021]** One paper is accepted to IJCAI 2021.
+- **[Nov 2020]** One paper is accepted to AAAI 2021.
+- **[Apr 2019]** One paper is accepted to KDD 2019.
 
 ## Preprints
 - **Kun-Peng Ning**, Hu Xu, Kun Zhu, Sheng-Jun Huang. Co-Imitation Learning without Expert Demonstration. ([arXiv'2021](https://arxiv.org/pdf/2103.14823.pdf)), 2021
