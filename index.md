@@ -4,7 +4,7 @@ My name is Kun-Peng Ning (宁鲲鹏). Welcome to my homepage!
 I got my B.E. and M.S. degrees in computer science from [Nanjing University of Aeronautics and Astronautics](http://www.nuaa.edu.cn/) in 2019 and 2022, respectively, advised by Prof. [Sheng-Jun Huang](http://parnec.nuaa.edu.cn/huangsj/). Moreover, I was a research intern in **Tencent AI Lab** and **Tencent ARC Lab** for half a year respectively. My research interests include machine learning and data mining. Specifically I am working on **active learning** and **reinforcement learning**. 
 
 ## News
-- **[Feb 2023]** We release ChatExcel, an auto AI tool for Excel.
+- **[Feb 2023]** We have released ChatExcel: Auto AI Tool for Excel.
 - **[Mar 2022]** One paper is accepted to CVPR 2022.
 - **[Apr 2021]** One paper is accepted to IJCAI 2021.
 - **[Nov 2020]** One paper is accepted to AAAI 2021.
