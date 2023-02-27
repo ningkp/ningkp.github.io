@@ -30,5 +30,5 @@ I got my B.E. and M.S. degrees in computer science from [Nanjing University of A
 - The Third Prize, [the 7th China Software Cup](http://www.cnsoftbei.com/plus/view.php?aid=220), 2018
 
 ## Contact Me
-- Email: ningkp41@gmail.com
+- Email: ningkp@nuaa.edu.cn
 
